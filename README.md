@@ -14,7 +14,7 @@
  - 龙佳文/男/1995
  - 本科/西华大学计算机科学与技术系 
  - 微博：[@A2wesome](http://www.weibo.com/208222397) 
- - 技术博客：http://awe.covteam.com ( ``` 使用GitHub Host的Big较高 ```  )
+ - 技术博客：http://awe.covteam.com
  - Github：http://github.com/hilongjw
 
  - 期望职位：Web前端
