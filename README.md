@@ -11,14 +11,13 @@
 
 # 个人信息
 
- - 龙佳文/男/1995
- - 本科/西华大学计算机科学与技术系 
+ - 龙佳文(Awe)/男/1995
+ - 本科/西华大学计算机科学与技术
  - 微博：[@A2wesome](http://www.weibo.com/208222397) 
  - 技术博客：http://awe.covteam.com
  - Github：http://github.com/hilongjw
 
  - 期望职位：Web前端
- - 期望城市：成都
 
 ---
 
@@ -38,8 +37,12 @@
 # 作品
 
 ### vue-vueRouter-webpack-example
- - 在github托管了 vuejs + vueRouter + webpack的example，在官方的example基础上整合路由、图标字体的loader 
+ - 在github托管了 vuejs + vueRouter + webpack的example，在官方的example基础上整合了路由，分离了指令 过滤器等
  - https://github.com/hilongjw/vue-vueRouter-webpack-example
+
+### vue-material-blog
+ - 一个由vue.js, material design lite, marked.js, leancloud构建的博客应用
+ - https://github.com/hilongjw/vue-material-blog
 
 ### 我的技能表（移动端 webapp - vuejs）
  - 网址：http://longyee.coding.io/
@@ -49,7 +52,7 @@
  - 演示：http://covblog.coding.io/#!/
 
 ###摄影约拍&社交网站（移动端，vuejs开发)
- - 演示：http://boodin-web-adbd9.coding.io/
+ - 演示：http://bood.in/
 
 ## 技术文章
 
@@ -63,8 +66,8 @@
 - Web开发：PHP/NodeJS/javascript/jquery/css3
 - Web后端框架：Express/Koa/Lavaral
 - 前端UI框架：Bootstrap/AmazeUI/MUI/framework7
-- 前端MVVM框架：React/VueJS
-- 前端工具：Gulp/WebPack/PhoneGap
+- 前端MVVM框架：VueJS
+- 前端工具：Gulp/WebPack
 - 数据库相关：MySQL/MongoDB
 - 版本管理：Git
 
