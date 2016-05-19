@@ -25,7 +25,7 @@
  - 负责掘金的关于我们页面的开发
  - 负责稀土Meetup前端和后端开发
  - 负责掘金的首页新版文章评论页的开发
- - 重构并升级了掘金全站的前端工程
+ - 重构并升级了掘金全站的前端工程,实现了前后端热更新，提升开发效率
  - 负责掘金后台的人工推送、评论点赞、文章反馈等管理功能的开发
  - 负责掘金客户端推送，消息的后台开发
  - 负责掘金的排行榜数据API的开发
@@ -57,12 +57,16 @@
  - A lightweight progress bar for vue 
  - [https://github.com/hilongjw/vue-progressbar](https://github.com/hilongjw/vue-progressbar)
 
+### vue-material-blog
+ - a simple blog make by Vue and Material-design-lite
+ - [https://github.com/hilongjw/vue-material-blog](https://github.com/hilongjw/vue-material-blog)
+
 ### AweSiteChat
  - 基于firebase的网站实时弹幕
  - [https://github.com/hilongjw/AweSiteChat](https://github.com/hilongjw/AweSiteChat)
 
-### 更多
-[https://github.com/hilongjw](https://github.com/hilongjw)
+### 
+ - [更多](https://github.com/hilongjw)
 
 # 技能清单
 
