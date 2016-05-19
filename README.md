@@ -3,19 +3,19 @@
 
 # 联系方式
 
-- 手机 ：18613809298
-- Email：hilongjw@gmail.com
-- QQ   ：1025503881
+- 手机  ：18613809298
+- Email ：hilongjw@gmail.com
+- 微信  ：1025503881
 
 ---
 
 # 个人信息
 
  - 龙佳文(Awe)/男/1995
- - 微博：[@A2wesome](http://www.weibo.com/208222397) 
- - Github：http://github.com/hilongjw
- - 期望职位：Web前端
- - 期望薪资：15-20k
+ - 微博     ：[@A2wesome](http://www.weibo.com/208222397) 
+ - Github   ：http://github.com/hilongjw
+ - 期望职位 ：Web前端
+ - 期望薪资 ：15-20k
 
 ---
 
@@ -62,7 +62,7 @@
  - [https://github.com/hilongjw/AweSiteChat](https://github.com/hilongjw/AweSiteChat)
 
 ### 更多
-    [https://github.com/hilongjw](https://github.com/hilongjw)
+[https://github.com/hilongjw](https://github.com/hilongjw)
 
 # 技能清单
 
