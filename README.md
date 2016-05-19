@@ -65,8 +65,7 @@
  - 基于firebase的网站实时弹幕
  - [https://github.com/hilongjw/AweSiteChat](https://github.com/hilongjw/AweSiteChat)
 
-### 
- - [更多](https://github.com/hilongjw)
+### [更多](https://github.com/hilongjw)
 
 # 技能清单
 
