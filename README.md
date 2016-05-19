@@ -3,7 +3,7 @@
 
 # 联系方式
 
-- 手机 ：18408244161
+- 手机 ：18613809298
 - Email：hilongjw@gmail.com
 - QQ   ：1025503881
 
@@ -12,63 +12,67 @@
 # 个人信息
 
  - 龙佳文(Awe)/男/1995
- - 本科/西华大学计算机科学与技术
  - 微博：[@A2wesome](http://www.weibo.com/208222397) 
- - 技术博客：http://awe.covteam.com
  - Github：http://github.com/hilongjw
-
  - 期望职位：Web前端
+ - 期望薪资：15-20k
 
 ---
 
 # 工作经历
 
+### 稀土掘金 （2016年2月）(jade/sass/vue.js/leancloud/nodejs)
+ - 负责掘金的关于我们页面的开发
+ - 负责稀土Meetup前端和后端开发
+ - 负责掘金的首页新版文章评论页的开发
+ - 重构并升级了掘金全站的前端工程
+ - 负责掘金后台的人工推送、评论点赞、文章反馈等管理功能的开发
+ - 负责掘金客户端推送，消息的后台开发
+ - 负责掘金的排行榜数据API的开发
+ - 负责掘金用户时间线和热门推荐的API开发
 
-### 成都启阖时代科技公司 （ 2015年4月 ~ 2015年9月 ）
- - 负责移动端的产品开发（使用MUI的UI框架进行二次开发，用到了ajax localstorage等技术），作为移动端的核心开发,我不但完成了网站界面和交互的开发工作，提出了去jq化，优化了访问体验，首页加载3G 2秒以内加载完成
- 
-- 负责相关活动的宣传H5页面的设计与开发（使用了ps、php和jquery.fullpage.js,canvas等），使用了canvas做到了传统web开发很难解决的类似画版的交互效果。
-
-### 校园淘宝（ 2015年1月 ~ 2015年3月）
- - 负责网站的前端（MUI）、后端（php）、app（hybirdAPP）的开发，处理了Android不同的webkit内核版本webview的兼容问题。
+### 百词斩 （2016年2月 ~ 2015年11月）(vue.js/nodejs)
+ - 负责百词斩题型实验组的题型原形开发，根据产品和设计需求完成了
+   chunk，cloze等测试题型的开发，并根据实验反馈完成了数次迭代。
+ - 负责元音和拼写相似度的英语单词分级编辑工具的开发
 
 ---
 
-# 作品
+# 开源项目
 
-### vue-vueRouter-webpack-example
- - 在github托管了 vuejs + vueRouter + webpack的example，在官方的example基础上整合了路由，分离了指令 过滤器等
- - https://github.com/hilongjw/vue-vueRouter-webpack-example
+### vue-lazyload
+ - Vue module for lazyloading images in your vue.js applications
+ - [https://github.com/hilongjw/vue-lazyload](https://github.com/hilongjw/vue-lazyload)
 
-### vue-material-blog
- - 一个由vue.js, material design lite, marked.js, leancloud构建的博客应用
- - https://github.com/hilongjw/vue-material-blog
+### vue-datepicker
+ - calendar and datepicker component with material design for Vue.js
+ - [https://github.com/hilongjw/vue-datepicker](https://github.com/hilongjw/vue-datepicker)
 
-### 我的技能表（移动端 webapp - vuejs）
- - 网址：http://longyee.coding.io/
+### Qarticles
+ - A lightweight and high performance JavaScript library for creating physical particles
+ - [https://github.com/hilongjw/Qarticles](https://github.com/hilongjw/Qarticles)
 
-### vuejs+express开发的多用户博客程序
- - 代码托管：https://coding.net/u/covteam/p/covblog/git
- - 演示：http://covblog.coding.io/#!/
+### vue-progressbar
+ - A lightweight progress bar for vue 
+ - [https://github.com/hilongjw/vue-progressbar](https://github.com/hilongjw/vue-progressbar)
 
-###摄影约拍&社交网站（移动端，vuejs开发)
- - 演示：http://bood.in/
+### AweSiteChat
+ - 基于firebase的网站实时弹幕
+ - [https://github.com/hilongjw/AweSiteChat](https://github.com/hilongjw/AweSiteChat)
 
-## 技术文章
-
-- [从vue.js最佳实践开始Webpack之路](http://awe.covteam.com/post/3b3d1d_911d40e)
-
+### 更多
+    [https://github.com/hilongjw](https://github.com/hilongjw)
 
 # 技能清单
 
 以下均为我熟练使用的技能
 
-- Web开发：PHP/NodeJS/javascript/jquery/css3
+- 前端：Javascript(ES6)/CSS3/HTML5
+- 前端框架：Vue.js
+- Web后端：NodeJS/PHP
 - Web后端框架：Express/Koa/Lavaral
-- 前端UI框架：Bootstrap/AmazeUI/MUI/framework7
-- 前端MVVM框架：VueJS
 - 前端工具：Gulp/WebPack
-- 数据库相关：MySQL/MongoDB
+- 数据库相关：MySQL/MongoDB/leancloud/firebase
 - 版本管理：Git
 
 ---
